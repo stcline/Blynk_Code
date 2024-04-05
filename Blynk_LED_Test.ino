@@ -1,3 +1,7 @@
+/* This sketch uses and ESP8266 with an LED attanced to D7 (GPIO13) and Blynk
+It may be used as an IoT test for your device.
+*/
+
 #define BLYNK_TEMPLATE_ID "TMPL2vMaE48jE"
 #define BLYNK_TEMPLATE_NAME "TestESP8266"
 #define BLYNK_AUTH_TOKEN "xBvJOhgIu2EvmPz6KEPml9T4Jv1Lsz6o"
